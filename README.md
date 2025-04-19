@@ -1,5 +1,3 @@
-Perfeito! Aqui está um **README.md profissional e atrativo** para seu repositório de portfólio de Segurança da Informação. Você pode usar esse conteúdo no GitHub direto na aba "Edit README" ou colar no arquivo `README.md` local.
-
 ---
 
 ## 🛡️ Portfólio Profissional – Segurança da Informação e Defesa Cibernética
